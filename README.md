@@ -41,14 +41,32 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorobig)](https://github.com/rorobig/github-readme-stats)
+[![Rocheandley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorobig)](https://github.com/rorobig/github-readme-stats)
 
 
+<a href="https://github.com/rorobig/rorobig">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorobig&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/rorobig/rorobig">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rorobig&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rocheandley's GitHub Stats" />
+</a>
 
-[3.2]: https://raw.githubusercontent.com/rorobig/rorobig/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- 
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   -->
+
+
 
 
 <!-- links to your social media accounts -->
+[3.2]: https://raw.githubusercontent.com/rorobig/rorobig/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [1]: https://twitter.com/rorobig
 [2]: https://github.com/rorobig
