@@ -2,8 +2,6 @@
 
 My name is Rocheandley Kwidama and i'm a Platform engineer/DevOps engineer. I'm from Curacao, living in the netherlands and currently working at Quintor. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/rorobig/github-readme-stats)
-
 <!--
 **rorobig/rorobig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +38,8 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- Actual text -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorobig)](https://github.com/rorobig/github-readme-stats)
+
 
 You can find me on [![LinkedIn][3.2]][3].
 
