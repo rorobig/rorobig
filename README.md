@@ -1,7 +1,9 @@
-### Hi ther  <img src="https://raw.githubusercontent.com/rorobig/rorobig/master/wave.gif" width="30px">
+### Hi there  <img src="https://raw.githubusercontent.com/rorobig/rorobig/master/wave.gif" width="30px">
 
 
-My name is Rocheandley Kwidama and i'm a Platform engineer/DevOps engineer. I'm from Curacao, living in the netherlands and currently working at Quintor. 
+My name is Rocheandley Kwidama and i'm a Platform engineer/DevOps engineer. I'm from Curacao, living in the netherlands and currently working at Quintor.
+You can find me on [![LinkedIn][3.2]][3].
+
 
 <!--
 **rorobig/rorobig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,12 +44,14 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorobig)](https://github.com/rorobig/github-readme-stats)
 
 
-You can find me on [![LinkedIn][3.2]][3].
 
-<!-- Icons -->
+[3.2]: https://raw.githubusercontent.com/rorobig/rorobig/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+<!-- links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/rocheandley-kwidama/
+[1]: https://twitter.com/rorobig
+[2]: https://github.com/rorobig
+[3]: https://www.linkedin.com/in/rocheandley-kwidama/
+
+
