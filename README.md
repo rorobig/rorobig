@@ -4,8 +4,6 @@ My name is Rocheandley Kwidama and i'm a Platform engineer/DevOps engineer. I'm 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/rorobig/github-readme-stats)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 <!--
 **rorobig/rorobig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +39,6 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
 
 <!-- Actual text -->
 
