@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi ther  <img src="https://raw.githubusercontent.com/rorobig/rorobig/master/wave.gif" width="30px">
+
 
 My name is Rocheandley Kwidama and i'm a Platform engineer/DevOps engineer. I'm from Curacao, living in the netherlands and currently working at Quintor. 
 
@@ -24,7 +25,7 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
