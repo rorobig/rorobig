@@ -1,5 +1,7 @@
-### Hi there  <img src="https://raw.githubusercontent.com/rorobig/rorobig/master/wave.gif" width="30px">
+### Hi there  <img src="https://media1.giphy.com/media/42tS2cfBtj8Y/giphy.gif?cid=ecf05e47k03moj6pakbohmsp9i7te3davbm3wr8kf2q7kt2g&rid=giphy.gif&ct=s" width="30px">
 
+
+<!-- https://raw.githubusercontent.com/rorobig/rorobig/master/wave.gif -->
 
 My name is Rocheandley Kwidama and i'm a Platform engineer/DevOps engineer. I'm from Curacao, living in the netherlands and currently working at Quintor.
 You can find me on [![LinkedIn][3.2]][3].
