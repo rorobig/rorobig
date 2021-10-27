@@ -41,8 +41,6 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 
 ## &#x1f4c8; GitHub Stats
 
-[![Rocheandley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorobig)](https://github.com/rorobig/github-readme-stats)
-
 
 <a href="https://github.com/rorobig/rorobig">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorobig&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
