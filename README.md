@@ -3,7 +3,7 @@
 
 <!-- https://raw.githubusercontent.com/rorobig/rorobig/master/wave.gif -->
 
-My name is Rocheandley Kwidama and i'm a Platform engineer/DevOps engineer. I'm from Curacao, living in the netherlands and currently working at Quintor.
+My name is Rocheandley Kwidama and i'm a Platform engineer. I'm from Curacao, living in the Netherlands and currently working at Quintor.
 You can find me on [![LinkedIn][3.2]][3].
 
 
