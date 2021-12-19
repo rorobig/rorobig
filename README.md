@@ -6,6 +6,7 @@
 My name is Rocheandley Kwidama and i'm a Platform engineer. I'm from Curacao, living in the Netherlands and currently working at Quintor.
 You can find me on [![LinkedIn][3.2]][3].
 
+My name is Rocheandley Kwidama and I'm currently a Platform engineer working at Quintor. I'am from Curacao, currently living in the netherlands and you can find me on [![LinkedIn][3.2]][3].
 
 <!--
 **rorobig/rorobig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
