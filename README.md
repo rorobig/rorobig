@@ -29,8 +29,8 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=00c6ff&style=for-the-badge&logo=apple)
-![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=00c6ff&style=for-the-badge&logo=linux)
-![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=00c6ff&style=for-the-badge&logo=windows)
+![](https://img.shields.io/static/v1?label=OS&message=Linux&color=00c6ff&style=for-the-badge&logo=linux)
+![](https://img.shields.io/static/v1?label=OS&message=Windows&color=00c6ff&style=for-the-badge&logo=windows)
 ![](https://img.shields.io/static/v1?label=Shell&message=zsh&color=00c6ff&style=for-the-badge&logo=shell)
 ![](https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=00c6ff&style=for-the-badge&logo=visual-studio-code)
 ![](https://img.shields.io/static/v1?label=Code&message=Go&color=00c6ff&style=for-the-badge&logo=bash)
