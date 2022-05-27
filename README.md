@@ -41,7 +41,7 @@ Apart from my work, I also maintain a blog - you can find my articles on my webs
 ![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)
 ![](https://img.shields.io/static/v1?label=Tools&message=Kubernetes&color=00c6ff&style=for-the-badge&logo=kubernetes)
 ![](https://img.shields.io/static/v1?label=Tools&message=OpenShift&color=00c6ff&style=for-the-badge&logo=red-hat-open-shift)
-![](https://img.shields.io/static/v1?label=Cloud&message=SaltStack&color=00c6ff&style=for-the-badge&logo=saltstack)
+![](https://img.shields.io/static/v1?label=Tools&message=SaltStack&color=00c6ff&style=for-the-badge&logo=salt-stack)
 ![](https://img.shields.io/static/v1?label=Cloud&message=Heroku&color=00c6ff&style=for-the-badge&logo=heroku)
 
 ## &#x1f4c8; GitHub Stats
