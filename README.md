@@ -27,18 +27,20 @@ Here are some ideas to get you started:
 Apart from my work, I also maintain a blog - you can find my articles on my website at [rorobig.github.io](https://rorobig.github.io) 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=00c6ff&style=for-the-badge&logo=apple)
+![](https://img.shields.io/static/v1?label=Shell&message=zsh&color=00c6ff&style=for-the-badge&logo=shell)
+![](https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=00c6ff&style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/static/v1?label=Code&message=Go&color=00c6ff&style=for-the-badge&logo=go)
+![](https://img.shields.io/static/v1?label=Code&message=Python&color=00c6ff&style=for-the-badge&logo=python)
+![](https://img.shields.io/static/v1?label=Code&message=PowerShell&color=00c6ff&style=for-the-badge&logo=powershell)
+![](https://img.shields.io/static/v1?label=Tools&message=Docker&color=00c6ff&style=for-the-badge&logo=docker)
+![](https://img.shields.io/static/v1?label=Tools&message=Ansible&color=00c6ff&style=for-the-badge&logo=ansible)
+![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)
+![](https://img.shields.io/static/v1?label=Tools&message=Kubernetes&color=00c6ff&style=for-the-badge&logo=kubernetes)
+![](https://img.shields.io/static/v1?label=Tools&message=OpenShift&color=00c6ff&style=for-the-badge&logo=red-hat-open-shift)
+![](https://img.shields.io/static/v1?label=Cloud&message=AWS&color=00c6ff&style=for-the-badge&logo=amazon-aws)
+![](https://img.shields.io/static/v1?label=Cloud&message=Heroku&color=00c6ff&style=for-the-badge&logo=heroku)
 
 ## &#x1f4c8; GitHub Stats
 
